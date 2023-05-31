@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently working on scut school
+- 🔭 I’m currently working on @bytedance
 - 🌱 I’m currently learning java and go
 - 👯 I’m looking to collaborate on dubbo!
 <!-- - 🤔 I’m looking for help with ...
