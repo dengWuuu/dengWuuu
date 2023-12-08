@@ -3,10 +3,10 @@
 # Hi there | Graduation Fall 2024 👋
 - 🔭 Ex-intern @bytedance(今日头条-backend)
 - 🌱 I’m currently learning java and go
-- 👯 I’m looking to collaborate nothing
 - 📫 How to reach me: dengwu.wu@foxmail.com
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 👯 I’m looking to collaborate nothing
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
