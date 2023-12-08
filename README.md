@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AC4F7&random=false&width=435&lines=Hi%EF%BC%81+this+is+Wu+Dengwu's+github+warehouse)](https://git.io/typing-svg)
+
 # Hi there 👋
 - 🔭 I’m currently working on @bytedance
 - 🌱 I’m currently learning java and go
