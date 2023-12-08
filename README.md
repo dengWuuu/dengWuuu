@@ -11,6 +11,7 @@
 - ⚡ Fun fact: ... -->
 
 # More Information
+- 就读于华南理工大学的本科生 | 做过客户端、前端，最后钟情于后端
 - 2023年暑期实习 -> @bytedance
 - 2023年秋招拿到多家大厂offer：@Tencent(IEG) | @KuaiShou | @Alibaba(淘天) | @AntGroup
 
