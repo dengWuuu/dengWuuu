@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AC4F7&random=false&width=435&lines=Hi%EF%BC%81+this+is+Wu+Dengwu's+github+warehouse)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AC4F7&random=false&width=490&lines=Hi%EF%BC%81+this+is+Wu+Dengwu's+github+warehouse)](https://git.io/typing-svg)
 
 # Hi there | Graduation Fall 2024 👋
 - 🔭 Ex-intern @bytedance(今日头条-backend)
