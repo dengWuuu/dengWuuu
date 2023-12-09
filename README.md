@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning java and go
 - 📫 How to reach me: dengwu.wu@foxmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu)](https://github.com/anuraghazra/github-readme-stats)  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wuuuuuu)](https://github.com/anuraghazra/github-readme-stats)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 👯 I’m looking to collaborate nothing
