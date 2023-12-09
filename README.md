@@ -4,6 +4,8 @@
 - 🔭 Ex-intern @bytedance(今日头条-backend)
 - 🌱 I’m currently learning java and go
 - 📫 How to reach me: dengwu.wu@foxmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu)](https://github.com/anuraghazra/github-readme-stats)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 👯 I’m looking to collaborate nothing
@@ -15,7 +17,5 @@
 - 2023年暑期实习 -> @bytedance
 - 2023年秋招拿到多家大厂offer：@Tencent(IEG) | @KuaiShou | @Alibaba(淘天) | @AntGroup
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengWuuu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengWuuu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)    
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu)](https://github.com/anuraghazra/github-readme-stats)
