@@ -11,6 +11,26 @@
 - 👯 I’m looking to collaborate nothing
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<p align="center">
+  <br><br>
+  <strong>Check out my work below!!!!!!!!!!!!</strong>
+  <br><br>
+  <a href="https://github.com/dengWuuu">
+    <img src="https://badges.strrl.dev/visits/dengWuuu/dengWuuu?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/dengWuuu">
+    <img src="https://badges.strrl.dev/years/dengWuuu?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/dengWuuu?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/dengWuuu?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/dengWuuu">
+    <img src="https://badges.strrl.dev/gists/dengWuuu?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/dengWuuu">
+    <img src="https://badges.strrl.dev/commits/monthly/dengWuuu?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
 # More Information
 - 就读于华南理工大学的本科生 | 做过客户端、前端，最后钟情于后端
