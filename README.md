@@ -35,7 +35,7 @@
 # More Information
 - 就读于华南理工大学的本科生 | 做过客户端、前端，最后钟情于后端
 - 2023年暑期实习 -> @bytedance
-- 2023年秋招拿到多家大厂offer：@Tencent(IEG) | @KuaiShou | @Alibaba(淘天) | @AntGroup
+- 2023年秋招拿到多家大厂offer：@Tencent(IEG) | @KuaiShou | @Alibaba(淘天) | @AntGroup | 且最后打算去蚂蚁工作
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengWuuu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)    
 
