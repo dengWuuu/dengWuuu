@@ -32,15 +32,15 @@
 
 - [蚂蚁集团 | 蚂蚁财富技术部](https://www.tuhuimap.com/) &emsp; 📌 2024-07-01(未来-预计) —— Now
 
-    - 工作岗位：后端开发工程师
-    - 工作内容：基金交易
+  - 工作岗位：后端开发工程师
+  - 工作内容：基金交易
 
 <img align="right" width="88" src="/img/bytedance.png" />
 
 - [字节跳动 | 今日头条平台业务](https://www.tuhuimap.com/) &emsp; 📌 2023-04-07 —— 2023-10-27
 
-    - 工作岗位：后端开发工程师
-    - 工作内容：悟空浏览器、站外优化、影视资源实体挖掘等
+  - 工作岗位：后端开发工程师
+  - 工作内容：悟空浏览器、站外优化、影视资源实体挖掘等
 
 </td></tr>
 
@@ -53,10 +53,7 @@
 - 2023年秋招拿到多家大厂offer：@Tencent(IEG) | @KuaiShou | @Alibaba(淘天) | @AntGroup | 且最后打算去蚂蚁工作
 
 </td></tr>
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dengWuuu&theme=minimal" />
-</div>
+</table>
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu" />
@@ -64,12 +61,10 @@
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=dengWuuu" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=dengWuuu&show_icons=true&theme=dracula" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 
-</table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengWuuu)](https://github.com/anuraghazra/github-readme-stats)  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wuuuuuu)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengWuuu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=wuuuuuu" />
+</div>
