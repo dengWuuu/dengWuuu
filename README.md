@@ -58,12 +58,13 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="left" width="150" src="/img/left.png" />
+<img align="right" width="150"  src="/img/right.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=default&hide_border=true" />
+  <img align="center" width="670" src="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="/img/right.png" />
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
