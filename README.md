@@ -3,7 +3,7 @@
 <table>
 
 # 🙋Hello | Graduation Fall 2024 👋
-- 🔭 Ex-intern @bytedance(今日头条-backend)
+- 🔭 Will work in @antgroup
 - 🌱 I’m currently learning java and go
 - 📫 How to reach me: dengwu.wu@foxmail.com
 
