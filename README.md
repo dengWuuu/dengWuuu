@@ -62,7 +62,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=light&hide_border=true" />
-  <img align="center" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=default&hide_border=true" />
+  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=dengWuuu&theme=default&hide_border=true" />
 </picture>
 
 
