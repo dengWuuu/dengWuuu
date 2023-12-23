@@ -26,6 +26,18 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://codeforces.com/profile/Wu_oooo">
+    <img src="https://img.shields.io/badge/Wu_oooo-Codeforces-blue?style=for-the-badge&logo=codeforces">
+  </a>
+
+  <a href="https://leetcode.cn/u/oyx-x/">
+    <img src="https://img.shields.io/badge/%E6%82%9F%F0%9F%8C%B8-Leetcode-green?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
+
+
+
 <tr><td>
 
 ### 🏢 Work Experience
