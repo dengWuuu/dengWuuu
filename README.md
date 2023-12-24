@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on Ant Group
 - 🌱 I’m currently learning java and go
 - 📫 How to reach me: dengwu.wu@foxmail.com
+- 😃 超兽战士的异能量永远不会超过他的信念！
 
 <p align="center">
   <a href="https://github.com/dengWuuu">
