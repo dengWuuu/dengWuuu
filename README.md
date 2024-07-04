@@ -44,7 +44,7 @@
 ### 🏢 Work Experience
 <img align="right" width="88" src="/img/antgroup.png" />
 
-- [蚂蚁集团 | 蚂蚁财富技术部](https://www.tuhuimap.com/) &emsp; 📌 2024-07-01(未来-预计) —— Now
+- [蚂蚁集团 | 蚂蚁财富技术部](https://www.tuhuimap.com/) &emsp; 📌 2024-07-04 —— Now
 
     - 工作岗位：后端开发工程师
     - 工作内容：基金交易
